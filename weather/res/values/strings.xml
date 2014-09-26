@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, WeatherActivity!</string>
+    <string name="app_name">Weather</string>
+    <string name="inputCity">输入要查询的城市</string>
+    <string name="search">搜索</string>
+    <string name="noweatherMess">没有查询到该城市的天气信息,重新输入</string>
+    <string name="waiteSearch">正在查询请稍后</string>
+    <string name="showTb">显示天气图标</string>
+    <string name="tips">未来三天的天气情况：</string>
+    <string name="hotcity">热门城市</string>
+    <string name="nopostcity">没有定位到你所在的城市，请手动添加</string>
+    <string name="existCity">九宫格中已经存在自动定位出来的城市</string>
+    <string name="addCity">将自动定位出来的城市添加到九宫格中</string>    
+</resources>
